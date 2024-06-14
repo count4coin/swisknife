@@ -10,3 +10,4 @@
 
 - Seamless compression of images.
 - Easy compression of PDF files.
+- Hassle-free extraction of data from PDF.
